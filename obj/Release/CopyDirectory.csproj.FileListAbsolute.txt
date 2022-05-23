@@ -1,0 +1,11 @@
+C:\Users\harit\OneDrive\Documents\Dev\CopyDirectory\bin\Release\CopyDirectory.exe.config
+C:\Users\harit\OneDrive\Documents\Dev\CopyDirectory\bin\Release\CopyDirectory.exe
+C:\Users\harit\OneDrive\Documents\Dev\CopyDirectory\bin\Release\CopyDirectory.pdb
+C:\Users\harit\OneDrive\Documents\Dev\CopyDirectory\obj\Release\CopyDirectory.csproj.AssemblyReference.cache
+C:\Users\harit\OneDrive\Documents\Dev\CopyDirectory\obj\Release\CopyDirectory.CopyDir2.resources
+C:\Users\harit\OneDrive\Documents\Dev\CopyDirectory\obj\Release\CopyDirectory.CopyOperation.resources
+C:\Users\harit\OneDrive\Documents\Dev\CopyDirectory\obj\Release\CopyDirectory.Properties.Resources.resources
+C:\Users\harit\OneDrive\Documents\Dev\CopyDirectory\obj\Release\CopyDirectory.csproj.GenerateResource.cache
+C:\Users\harit\OneDrive\Documents\Dev\CopyDirectory\obj\Release\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\harit\OneDrive\Documents\Dev\CopyDirectory\obj\Release\CopyDirectory.exe
+C:\Users\harit\OneDrive\Documents\Dev\CopyDirectory\obj\Release\CopyDirectory.pdb
